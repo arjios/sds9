@@ -1,0 +1,10 @@
+.header__subtitle {
+    align-items: center;
+    background-color: unset;
+    color: #ffffff;
+    display: flex;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+.sales__input--date {
+  height: 46px;
+  background-color: #1b2531;
+  border: 1px solid #384459;
+  border-radius: 5px;
+  width: 100%;
+  color: #9aaabe;
+  padding: 0 20px;
+  font-size: 18px;
+  font-weight: 400;
+}

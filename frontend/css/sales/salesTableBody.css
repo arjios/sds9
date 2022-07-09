@@ -1,0 +1,12 @@
+.sales__table--body {
+    font-size: 14px;
+    font-weight: 400;
+    color: #CFCFCF;
+}
+
+
+@media only screen and (min-width: 576px) {
+    .sales__table--body {
+        font-size: 18px;
+    }
+  }

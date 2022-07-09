@@ -1,0 +1,15 @@
+.sales__table--row {
+  height: 74px;
+  background: #283142;
+  border-top: 1px solid #5f6e82;
+}
+
+.sales__table--row:nth-child(odd) {
+  background-color: #242c3b;
+}
+
+@media only screen and (min-width: 576px) {
+  .sales__table--row  {
+    height: 55px;
+  }
+}
